@@ -34,12 +34,7 @@ Me gusta entregar software limpio, fuertemente tipado y mantenible a buen ritmo.
 ### Contacto
 
 - **Email:** [manuel.lioneg@gmail.com](mailto:manuel.lioneg@gmail.com)
-- **LinkedIn:** [linkedin.com/in/manuel-lione](https://linkedin.com/in/lionegmanuel)
-- **Sitio Web:** [velinex.digital](https://velinex.digital)
+- **LinkedIn:** [Mi Perfil](https://linkedin.com/in/lionegmanuel)
+- **Sitio Web:** [Velinex](https://velinex.digital)
 
 <br />
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lionegmanuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Manuel" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionegmanuel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" width="49%" />
-</div>
