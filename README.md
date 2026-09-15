@@ -27,14 +27,14 @@ Actualmente desarrollando **[Zignum](https://zignum.app)**, liderando la ingenie
 
 ### Cómo trabajo
 
-Me gusta entregar software limpio, fuertemente tipado y mantenible a buen ritmo. Integro herramientas de asistencia avanzada (Claude Code, Antigravity) en mi día a día para validar arquitectura, escribir tests y acelerar el ciclo de desarrollo sin sacrificar calidad de código.
+Me gusta entregar software limpio, fuertemente tipado y mantenible a buen ritmo. Integro herramientas de asistencia avanzada (Claude Code, Antigravity, Codex) en mi día a día para validar arquitectura, escribir tests y acelerar el ciclo de desarrollo sin sacrificar calidad de código.
 
 ---
 
 ### Contacto
 
 - **Email:** [manuel.lioneg@gmail.com](mailto:manuel.lioneg@gmail.com)
-- **LinkedIn:** [linkedin.com/in/manuel-lione](https://linkedin.com/in/manuel-lione)
+- **LinkedIn:** [linkedin.com/in/manuel-lione](https://linkedin.com/in/lionegmanuel)
 - **Sitio Web:** [velinex.digital](https://velinex.digital)
 
 <br />
