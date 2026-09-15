@@ -1,45 +1,45 @@
-# Hola, soy Manuel 👋
+# Hi, I'm Manuel 👋
 
-Ingeniero de software y creador de productos radicado en Córdoba, Argentina. Construyo aplicaciones web modernas, sistemas backend y automatizaciones con IA enfocadas en resolver problemas operativos reales.
+Software engineer and builder based in Córdoba, Argentina. I build web applications, cloud backends, and AI-powered systems that solve concrete operational problems.
 
-Actualmente desarrollando **[Zignum](https://zignum.app)**, liderando la ingeniería en **[Velinex](https://velinex.digital)** y trabajando como Technical Lead en **FIXU AI**.
-
----
-
-### Lo que construyo
-
-- 💼 **[Zignum](https://zignum.app)** - Plataforma de gestión financiera y copiloto de flujo de caja para empresas. Desarrollado con Next.js, TypeScript, Tailwind CSS, Supabase y análisis con streaming en tiempo real.
-- ⚙️ **Operius** - Sistema operativo integral para empresas de servicios, centralizando ventas, seguimiento de proyectos y facturación en una sola interfaz.
-- 📊 **Conciliapp** - Motor de conciliación bancaria automatizada que procesa extractos multiformato (PDF, XLS, CSV) y concilia movimientos contables usando Python, FastAPI y Next.js.
-- 🛡️ **[APK Security Validator](https://github.com/lionegmanuel/APK-security-validator)** - Suite de análisis de seguridad estático y descompilación de aplicaciones Android con PowerShell y Jadx.
-- 🌐 **[Velinex](https://velinex.digital)** - Consultoría de ingeniería de software y automatizaciones con IA para empresas.
+Currently focused on building **[Zignum](https://zignum.app)**, running engineering at **[Velinex](https://velinex.digital)**, and working as Technical Lead at **FIXU AI**.
 
 ---
 
-### Tecnologías que uso a diario
+### What I build
+
+- 💼 **[Zignum](https://zignum.app)** - Financial management platform and cash-flow copilot for businesses. Built with Next.js, TypeScript, Tailwind CSS, Supabase, and real-time streaming analysis.
+- ⚙️ **Operius** - Centralized operating system for service companies, unifying sales pipelines, project operations, and invoicing workflows.
+- 📊 **Conciliapp** - Bank reconciliation engine that ingests multi-format statements (PDF, XLS, CSV) and automates record matching using Python, FastAPI, and Next.js.
+- 🛡️ **[APK Security Validator](https://github.com/lionegmanuel/APK-security-validator)** - Static security analysis and decompiler suite for Android apps using PowerShell and Jadx.
+- 🌐 **[Velinex](https://velinex.digital)** - Software engineering and AI integration firm helping companies automate operational bottlenecks.
+
+---
+
+### Tech stack & daily tools
 
 - **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS, Shadcn UI
-- **Backend y Datos:** Node.js, Python, FastAPI, PostgreSQL, Supabase, Docker
-- **IA y Automatización:** LLM APIs, Function Calling, n8n, Claude Code, Antigravity
-- **Otras herramientas:** Git, APIs REST, Webhooks, Tauri (Rust + React)
+- **Backend & Data:** Node.js, Python, FastAPI, PostgreSQL, Supabase, Docker
+- **AI & Automation:** LLM APIs, Function Calling, n8n, Claude Code, Antigravity
+- **Other:** Git, REST APIs, Webhooks, Tauri (Rust + React)
 
 ---
 
-### Cómo trabajo
+### How I work
 
-Me gusta entregar software limpio, fuertemente tipado y mantenible a buen ritmo. Integro herramientas de asistencia avanzada (Claude Code, Antigravity, Codex) en mi día a día para validar arquitectura, escribir tests y acelerar el ciclo de desarrollo sin sacrificar calidad de código.
+I like shipping clean, typed, maintainable software at high speed. I integrate AI-native tooling (Claude Code, Antigravity) into my daily development cycle for architecture validation, testing, and rapid iteration, keeping codebase quality high without slowing down delivery.
 
 ---
 
-### Contacto
+### Connect
 
 - **Email:** [manuel.lioneg@gmail.com](mailto:manuel.lioneg@gmail.com)
-- **LinkedIn:** [linkedin.com/in/manuel-lione](https://linkedin.com/in/lionegmanuel)
-- **Sitio Web:** [velinex.digital](https://velinex.digital)
+- **LinkedIn:** [linkedin.com/in/manuel-lione](https://linkedin.com/in/manuel-lione)
+- **Website:** [velinex.digital](https://velinex.digital)
 
 <br />
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lionegmanuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Manuel" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionegmanuel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lionegmanuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manuel's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionegmanuel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="49%" />
 </div>
